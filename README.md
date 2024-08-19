@@ -1,14 +1,14 @@
-# Prodigy InfoTech Internship: Data Analysis Insights
+# Prodigy InfoTech Internship: Machine Learning Insights
 
-Welcome to the Prodigy InfoTech Internship repository! This repository documents are for Task 4 of my internship journey, focusing on data cleaning, analysis, and uncovering insightful patterns.
+Welcome to the Prodigy InfoTech Internship repository! This repository documents are for Task 1 of my internship journey, focusing on implementing a linear regression model to predict house prices based on square footage, the number of bedrooms, and the number of bathrooms.
 
 ## Task Overview
 
-Analyze and visualize sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands.
+Implement a linear regression model to predict the prices of houses based on their square footage and the number of bedrooms and bathrooms.
 
 ## Knowledge Gained
 
-Task 4 enriched my expertise in analyzing and visualizing sentiment patterns in social media data has enhanced my understanding of how to interpret public opinion and attitudes towards specific topics or brands.
+Task 1 enriched my expertise in implementing and evaluating linear regression models. It enhanced my understanding of how to predict house prices using key features like square footage, the number of bedrooms, and bathrooms.
 
 ## Connect with Me
 
